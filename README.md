@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Yusuf-Siraj
-- 👀 I’m interested in Full-Stack 
-- 🌱 I’m currently learning Java, Node.js, Python, NumPy, Javascript, HTML, CSS, Go, DevOps, Microservices (and transition to from monolith), Springboot, AWS, SQL.
+-  Hi, I’m @Yusuf-Siraj
+-  I’m interested in Full-Stack 
+-  I’m currently learning Java, Node.js, Python, NumPy, Javascript, HTML, CSS, Go, DevOps, Microservices (and transition to from monolith), Springboot, AWS, SQL.
 -  I am currently looking to collaborate on Projects as my current project is halted due to sourcing. 
-- 📫 How to reach me Email: TraboulsiYusuf12@gmail.com or via LinkedIn: www.linkedin.com/in/Yusuf-Traboulsi
-- ⚡ Fun fact: I'm Very passionate about gardening and that can even be seen in my Linkedin - my cherry tree is in the background - among many other things 
+-  How to reach me Email: TraboulsiYusuf12@gmail.com or via LinkedIn: www.linkedin.com/in/Yusuf-Traboulsi
+-  Fun fact: I'm Very passionate about gardening and that can even be seen in my Linkedin - my cherry tree is in the background - among many other things. 
